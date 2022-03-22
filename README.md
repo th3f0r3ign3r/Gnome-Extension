@@ -9,7 +9,6 @@ Please consult the connector installation manual.
 ## Syntax
 ```
 ~$ cd Gnome\ Extension
-
 ~$ ./gnomeShell.sh [link to the gnome shell extension zip file]
 ```
 
